@@ -5101,6 +5101,14 @@ throat@^5.0.0:
   resolved "https://registry.yarnpkg.com/throat/-/throat-5.0.0.tgz#c5199235803aad18754a667d659b5e72ce16764b"
   integrity sha512-fcwX4mndzpLQKBS1DVYhGAcYaYt7vsHNIvQV+WXMvnow5cgjPphq5CaayLaGsjRdSCKZFNGt7/GYAuXaNOiYCA==
 
+"tiendademelio.product-availability@https://pruebaspocima--tiendademelio.myvtex.com/_v/private/typings/linked/v1/tiendademelio.product-availability@0.0.0+build1686688920/public/@types/tiendademelio.product-availability":
+  version "0.0.0"
+  resolved "https://pruebaspocima--tiendademelio.myvtex.com/_v/private/typings/linked/v1/tiendademelio.product-availability@0.0.0+build1686688920/public/@types/tiendademelio.product-availability#205c7f2d99e4948d8b6f03d0ef9bf8db95c5f35e"
+
+"tiendademelio.service-example-pocima@https://pruebaspocima--tiendademelio.myvtex.com/_v/private/typings/linked/v1/tiendademelio.service-example-pocima@0.0.1+build1686688633/public/@types/tiendademelio.service-example-pocima":
+  version "0.0.1"
+  resolved "https://pruebaspocima--tiendademelio.myvtex.com/_v/private/typings/linked/v1/tiendademelio.service-example-pocima@0.0.1+build1686688633/public/@types/tiendademelio.service-example-pocima#da8cddb628be2f2ff15c32c3f985249aa9e790f9"
+
 tmpl@1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
@@ -5336,6 +5344,26 @@ verror@1.10.0:
     assert-plus "^1.0.0"
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
+
+"vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context":
+  version "0.10.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context#c5e2a97b404004681ee12f4fff7e6b62157786cc"
+
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.133.2/public/@types/vtex.render-runtime":
+  version "8.133.2"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.133.2/public/@types/vtex.render-runtime#6fc9c79c52f292c67f583e96d66a56b7b61eabd1"
+
+"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.53.0/public/@types/vtex.search-graphql":
+  version "0.53.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.53.0/public/@types/vtex.search-graphql#a55879c066c3de799ba97e3647fe49e9b533d8c6"
+
+"vtex.store-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-graphql@2.164.0/public/@types/vtex.store-graphql":
+  version "2.164.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-graphql@2.164.0/public/@types/vtex.store-graphql#7ed5bb059ac9432b0bf87abb5354fe51583c5280"
+
+"vtex.store-resources@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-resources@0.90.0/public/@types/vtex.store-resources":
+  version "0.90.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-resources@0.90.0/public/@types/vtex.store-resources#fe8c614d89be9bd18ef5c2578a2a19a458f01c0e"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"

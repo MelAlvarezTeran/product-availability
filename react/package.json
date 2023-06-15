@@ -19,7 +19,14 @@
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "typescript": "3.9.7"
+    "tiendademelio.product-availability": "https://pruebaspocima--tiendademelio.myvtex.com/_v/private/typings/linked/v1/tiendademelio.product-availability@0.0.0+build1686688920/public/@types/tiendademelio.product-availability",
+    "tiendademelio.service-example-pocima": "https://pruebaspocima--tiendademelio.myvtex.com/_v/private/typings/linked/v1/tiendademelio.service-example-pocima@0.0.1+build1686688633/public/@types/tiendademelio.service-example-pocima",
+    "typescript": "3.9.7",
+    "vtex.product-context": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.133.2/public/@types/vtex.render-runtime",
+    "vtex.search-graphql": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.53.0/public/@types/vtex.search-graphql",
+    "vtex.store-graphql": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-graphql@2.164.0/public/@types/vtex.store-graphql",
+    "vtex.store-resources": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-resources@0.90.0/public/@types/vtex.store-resources"
   },
   "resolutions": {
     "@types/jest": "26.0.15"

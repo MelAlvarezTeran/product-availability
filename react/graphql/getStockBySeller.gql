@@ -1,0 +1,10 @@
+query getStockBySeller($sku: String!) {
+  getStockBySeller(sku: $sku)
+    @context(provider: "tiendademelio.service-example-pocima") {
+    skuId
+    seller
+    balance {
+      totalQuantity
+    }
+  }
+}
